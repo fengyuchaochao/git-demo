@@ -1,6 +1,7 @@
 bbb
 ddd
 ccc
+<<<<<<< HEAD
 aaa
 www
 aaa
@@ -11,3 +12,6 @@ aa
 22
 44
 44
+=======
+aaa
+>>>>>>> master
