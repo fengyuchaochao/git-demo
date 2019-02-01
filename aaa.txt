@@ -1,17 +1,3 @@
 bbb
 ddd
 ccc
-<<<<<<< HEAD
-aaa
-www
-aaa
-ddd
-ee
-33
-aa
-22
-44
-44
-=======
-aaa
->>>>>>> master
